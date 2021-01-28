@@ -1,0 +1,14 @@
+.awssld ,.awssld--organic-arrows{
+    height: 400px;
+}
+.awssld__timer{
+    --timer-height:0px !important;
+}
+.awssld__bar ,.awssld__bar--active{
+    display: none;
+}
+@media screen and (max-width:600px){
+    .awssld ,.awssld--organic-arrows{
+        height: 200px;
+    }
+}

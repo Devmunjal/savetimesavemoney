@@ -1,0 +1,9 @@
+
+@media screen and (max-width:600px){
+    .search-button{
+        margin-top: 10px;
+    }
+    .login-button{
+        margin-left: -12px;
+    }
+}
